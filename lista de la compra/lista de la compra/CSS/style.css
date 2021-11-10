@@ -1,0 +1,19 @@
+		ol
+		{
+			background: #ff9999;
+			padding: 20px;
+		}
+
+		li
+		{
+			list-style-type: lower-greek;
+			background: #ffe5e5;
+			padding: 5px;
+			margin-left: 35px;
+		}
+
+		ol li:hover
+		{
+			color: lightgrey;
+		}
+
