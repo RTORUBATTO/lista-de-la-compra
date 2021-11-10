@@ -1,0 +1,11 @@
+
+		li
+		{
+			list-style-type: lower-greek;
+		}
+
+		li:hover
+		{
+			color: lightgrey;
+		}
+
